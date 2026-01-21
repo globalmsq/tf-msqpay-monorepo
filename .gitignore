@@ -21,7 +21,6 @@ ignition/deployments/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
